@@ -11,7 +11,7 @@ please use the "dos2unix" command on the script.
 
 *example*
 # The script is calles "del_ns.sh"*
-# "destorntw" namespace is stuck in terminating phase
+"destorntw" namespace is stuck in terminating phase
 
 You would run the script as follows.
 *<"relative_path">del_ns.sh <"namespace name"> ~ ./home/scripts/del_ns.sh destorntw*
